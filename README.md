@@ -25,3 +25,26 @@ This project demonstrates how to host a static website using Azure Blob Storage 
 ## Files
 - `index.html`
 - `404.html`
+
+## Screenshots
+
+### Storage Account Overview
+![Storage Account Overview](screenshots/Screenshot%202026-05-12%20221125.png)
+
+### Static Website Configuration
+![Static Website Configuration](screenshots/Screenshot%202026-05-12%20221211.png)
+
+### Live Website
+![Live Website](screenshots/Screenshot%202026-05-12%20221238.png)
+
+### Custom 404 Page
+![Custom 404 Page](screenshots/Screenshot%202026-05-12%20221306.png)
+
+### Blob Container Files
+![Blob Container Files](screenshots/Screenshot%202026-05-12%20221338.png)
+
+## Live Site
+
+Azure Static Website URL:
+
+https://stgpstaticsitesf0.z22.web.core.windows.net/
